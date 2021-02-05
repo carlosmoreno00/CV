@@ -8,11 +8,11 @@
             "telefono": "642462269",
             "redesSociales": {
                 "linkedin": {
-                    "imagen": "../img/linkedin.png",
+                    "imagen": "https://carlosmoreno00.github.io/CV/img/linkedin.png",
                     "enlace": "https://es.linkedin.com/"
                 },
                 "github": {
-                    "imagen": "../img/github.png",
+                    "imagen": "https://carlosmoreno00.github.io/CV/img/github.png",
                     "enlace": "https://github.com/carlosmoreno00"
                 }
             },
@@ -46,37 +46,37 @@
         "habilidades": {
             "a": {
                 "habilidad": "HTML5",
-                "imagen": "../img/html.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/html.png"
             },
             "b": {
                 "habilidad": "CSS3",
-                "imagen": "../img/css.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/css.png"
             },
             "c": {
                 "habilidad": "Java",
-                "imagen": "../img/java.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/java.png"
             },
             "d": {
                 "habilidad": "JavaScript",
-                "imagen": "../img/js.jpg"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/js.jpg"
             },
             "e": {
                 "habilidad": "Vue",
-                "imagen": "../img/vue.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/vue.png"
             },
             "f": {
                 "habilidad": "PHP",
-                "imagen": "../img/php.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/php.png"
             },
             "g": {
                 "habilidad": "Bootstrap",
-                "imagen": "../img/bootstrap.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/bootstrap.png"
             }
         },
         "proyectosDesarrollados": {
             "a": {
                 "nombre": "Piedra, papel o tijera",
-                "imagen": "../img/ppt.png",
+                "imagen": "https://carlosmoreno00.github.io/CV/img/ppt.png",
                 "enlaceProduccion": "https://carlosmoreno00.github.io/rockPaperScissors/",
                 "enlaceRepositorio": "https://github.com/carlosmoreno00/rockPaperScissors",
                 "resumen": "Juego tradicional de piedra, papel o tijera",
@@ -84,7 +84,7 @@
             },
             "b": {
                 "nombre": "Pong",
-                "imagen": "../img/pong.png",
+                "imagen": "https://carlosmoreno00.github.io/CV/img/pong.png",
                 "enlaceProduccion": "https://carlosmoreno00.github.io/pongGame/",
                 "enlaceRepositorio": "https://github.com/carlosmoreno00/pongGame",
                 "resumen": "Juego tradicional del pong",
@@ -92,7 +92,7 @@
             },
             "c": {
                 "nombre": "Notas",
-                "imagen": "../img/notas.png",
+                "imagen": "https://carlosmoreno00.github.io/CV/img/notas.png",
                 "enlaceProduccion": "https://carlosmoreno00.github.io/stickyNotes/",
                 "enlaceRepositorio": "https://github.com/carlosmoreno00/stickyNotes",
                 "resumen": "Permite crear notas con su fecha de creación",
@@ -100,7 +100,7 @@
             },
             "d": {
                 "nombre": "Landing page de Wallapop",
-                "imagen": "../img/wallapop.jpg",
+                "imagen": "https://carlosmoreno00.github.io/CV/img/wallapop.jpg",
                 "enlaceProduccion": "https://carlosmoreno00.github.io/landingPage/",
                 "enlaceRepositorio": "https://github.com/carlosmoreno00/landingPage",
                 "resumen": "Landing page de la página web Wallapop",
@@ -151,11 +151,11 @@
             "telefono": "642462269",
             "redesSociales": {
                 "linkedin": {
-                    "imagen": "../img/linkedin.png",
+                    "imagen": "https://carlosmoreno00.github.io/CV/img/linkedin.png",
                     "enlace": "https://es.linkedin.com/"
                 },
                 "github": {
-                    "imagen": "../img/github.png",
+                    "imagen": "https://carlosmoreno00.github.io/CV/img/github.png",
                     "enlace": "https://github.com/carlosmoreno00"
                 }
             },
@@ -189,37 +189,37 @@
         "habilidades": {
             "a": {
                 "habilidad": "HTML5",
-                "imagen": "../img/html.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/html.png"
             },
             "b": {
                 "habilidad": "CSS3",
-                "imagen": "../img/css.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/css.png"
             },
             "c": {
                 "habilidad": "Java",
-                "imagen": "../img/java.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/java.png"
             },
             "d": {
                 "habilidad": "JavaScript",
-                "imagen": "../img/js.jpg"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/js.jpg"
             },
             "e": {
                 "habilidad": "Vue",
-                "imagen": "../img/vue.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/vue.png"
             },
             "f": {
                 "habilidad": "PHP",
-                "imagen": "../img/php.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/php.png"
             },
             "g": {
                 "habilidad": "Bootstrap",
-                "imagen": "../img/bootstrap.png"
+                "imagen": "https://carlosmoreno00.github.io/CV/img/bootstrap.png"
             }
         },
         "proyectosDesarrollados": {
             "a": {
                 "nombre": "Rock, paper or scissors",
-                "imagen": "../img/ppt.png",
+                "imagen": "https://carlosmoreno00.github.io/CV/img/ppt.png",
                 "enlaceProduccion": "https://carlosmoreno00.github.io/rockPaperScissors/",
                 "enlaceRepositorio": "https://github.com/carlosmoreno00/rockPaperScissors",
                 "resumen": "Traditional game of rock, paper or scissors",
@@ -227,7 +227,7 @@
             },
             "b": {
                 "nombre": "Pong",
-                "imagen": "../img/pong.png",
+                "imagen": "https://carlosmoreno00.github.io/CV/img/pong.png",
                 "enlaceProduccion": "https://carlosmoreno00.github.io/pongGame/",
                 "enlaceRepositorio": "https://github.com/carlosmoreno00/pongGame",
                 "resumen": "Traditional game of pong",
@@ -235,7 +235,7 @@
             },
             "c": {
                 "nombre": "Notes",
-                "imagen": "../img/notas.png",
+                "imagen": "https://carlosmoreno00.github.io/CV/img/notas.png",
                 "enlaceProduccion": "https://carlosmoreno00.github.io/stickyNotes/",
                 "enlaceRepositorio": "https://github.com/carlosmoreno00/stickyNotes",
                 "resumen": "Allows you to create notes with its creation date",
@@ -243,7 +243,7 @@
             },
             "d": {
                 "nombre": "Landing page of Wallapop",
-                "imagen": "../img/wallapop.jpg",
+                "imagen": "https://carlosmoreno00.github.io/CV/img/wallapop.jpg",
                 "enlaceProduccion": "https://carlosmoreno00.github.io/landingPage/",
                 "enlaceRepositorio": "https://github.com/carlosmoreno00/landingPage",
                 "resumen": "Landing page of the Wallapop website",
