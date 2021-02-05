@@ -1,0 +1,288 @@
+{
+    "español": {
+        "sobreMi": {
+            "nombre": "Carlos",
+            "apellidos": "Moreno Tirado",
+            "direccion": "C/Doctor Muñoz Fernández 3, Granada, 18012",
+            "email": "carlosmorenot92@gmail.com",
+            "telefono": "642462269",
+            "redesSociales": {
+                "linkedin": {
+                    "imagen": "../img/linkedin.png",
+                    "enlace": "https://es.linkedin.com/"
+                },
+                "github": {
+                    "imagen": "../img/github.png",
+                    "enlace": "https://github.com/carlosmoreno00"
+                }
+            },
+            "presentacion": "Mi objetivo como desarrollador web es hacer diseños creativos y tecnológicamente avanzados. Soy una persona acostumbrado a solucionar problemas e imprevistos de manera autónoma, sin necesidad de una supervisión permanente. Tengo una gran capacidad de coordinación, que me permite simultanear de forma satisfactoria diferentes tareas, dando respuesta tanto a las necesidades de los profesionales de la empresa como a las demandas de los clientes."
+        },
+        "experienciaProfesional": { 
+            "a": {
+                "nombreTrabajo": "Desarrollador web",
+                "fechaInicio": "15/03/2021",
+                "fechaFin": "11/06/2021",
+                "descripcion": "Prácticas en empresa desarrollando páginas web"
+            }
+        },
+        "educacion": {
+            "a": {
+                "titulo": "Educación secundaria obligatoria",
+                "fecha": "2016",
+                "lugar": "IES Mirador del Genil"
+            },
+            "b": {
+                "titulo": "Bachillerato tecnológico",
+                "fecha": "2018",
+                "lugar": "IES Nuevo Scala"
+            },
+            "c": {
+                "titulo": "Técnico en grado superior de desarrollo de aplicaciones web",
+                "fecha": "2021",
+                "lugar": "IES Francisco Ayala"
+            }
+        },
+        "habilidades": {
+            "a": {
+                "habilidad": "HTML5",
+                "imagen": "../img/html.png"
+            },
+            "b": {
+                "habilidad": "CSS3",
+                "imagen": "../img/css.png"
+            },
+            "c": {
+                "habilidad": "Java",
+                "imagen": "../img/java.png"
+            },
+            "d": {
+                "habilidad": "JavaScript",
+                "imagen": "../img/js.jpg"
+            },
+            "e": {
+                "habilidad": "Vue",
+                "imagen": "../img/vue.png"
+            },
+            "f": {
+                "habilidad": "PHP",
+                "imagen": "../img/php.png"
+            },
+            "g": {
+                "habilidad": "Bootstrap",
+                "imagen": "../img/bootstrap.png"
+            }
+        },
+        "proyectosDesarrollados": {
+            "a": {
+                "nombre": "Piedra, papel o tijera",
+                "imagen": "../img/ppt.png",
+                "enlaceProduccion": "https://carlosmoreno00.github.io/rockPaperScissors/",
+                "enlaceRepositorio": "https://github.com/carlosmoreno00/rockPaperScissors",
+                "resumen": "Juego tradicional de piedra, papel o tijera",
+                "tecnologias": "HTML5, CSS3 y JavaScript"
+            },
+            "b": {
+                "nombre": "Pong",
+                "imagen": "../img/pong.png",
+                "enlaceProduccion": "https://carlosmoreno00.github.io/pongGame/",
+                "enlaceRepositorio": "https://github.com/carlosmoreno00/pongGame",
+                "resumen": "Juego tradicional del pong",
+                "tecnologias": "HTML5 y JavaScript usando svg y clases"
+            },
+            "c": {
+                "nombre": "Notas",
+                "imagen": "../img/notas.png",
+                "enlaceProduccion": "https://carlosmoreno00.github.io/stickyNotes/",
+                "enlaceRepositorio": "https://github.com/carlosmoreno00/stickyNotes",
+                "resumen": "Permite crear notas con su fecha de creación",
+                "tecnologias": "HTML5, CSS3 y JavaScript"
+            },
+            "d": {
+                "nombre": "Landing page de Wallapop",
+                "imagen": "../img/wallapop.jpg",
+                "enlaceProduccion": "https://carlosmoreno00.github.io/landingPage/",
+                "enlaceRepositorio": "https://github.com/carlosmoreno00/landingPage",
+                "resumen": "Landing page de la página web Wallapop",
+                "tecnologias": "HTML5, CSS3, JavaScript y JQuery"
+            }
+        },
+        "idiomas": {
+            "a": {
+                "idioma": "Español",
+                "nivel": "100%"
+            },
+            "b": {
+                "idioma": "Inglés",
+                "nivel": "70%"
+            },
+            "c": {
+                "idioma": "Francés",
+                "nivel": "20%" 
+            }
+        },
+        "referencias": {
+            "a": {
+                "nombre": "Isaac Arévalo",
+                "referencia": "Ha demostrado ser una trabajadora responsable, honesta y eficiente.",
+                "numero": "630799306",
+                "correo": "isaacarevalo@gmail.com"
+            },
+            "b": {
+                "nombre": "María Cañadas",
+                "referencia": "Es eficiente, honesta y puntual. En muchas ocasiones termina el trabajo antes de la fecha prevista haciendo que sea muy eficaz.",
+                "numero": "614964503",
+                "correo": "mariacañadas@gmail.com"
+            },
+            "c": {
+                "nombre": "Jaime Postigo",
+                "referencia": "Tiene una excelente relación interpersonal, además de facilidad con la docencia. Sus excelentes habilidades de comunicación (tanto escritas como verbales) le permiten conectarse con todo tipo de personas e inspirarlas a esforzarse al máximo.",
+                "numero": "674229503",
+                "correo": "jaimepostiño@gmail.com"
+            }
+        }
+    },
+    "ingles": {
+        "sobreMi": {
+            "nombre": "Carlos",
+            "apellidos": "Moreno Tirado",
+            "direccion": "C/ Doctor Muñoz Fernández 3, Granada, 18012",
+            "email": "carlosmorenot92@gmail.com",
+            "telefono": "642462269",
+            "redesSociales": {
+                "linkedin": {
+                    "imagen": "../img/linkedin.png",
+                    "enlace": "https://es.linkedin.com/"
+                },
+                "github": {
+                    "imagen": "../img/github.png",
+                    "enlace": "https://github.com/carlosmoreno00"
+                }
+            },
+            "presentacion": "My goal as a web developer is to make creative and technologically advanced designs. I am a person used to solving problems and unforeseen events independently, without the need for permanent supervision. I have a great capacity for coordination, which allows me to successfully combine different tasks, responding both to the needs of the company's professionals and to the demands of clients."
+        },
+        "experienciaProfesional": {
+            "a": {
+                "nombreTrabajo": "Web developer",
+                "fechaInicio": "15/03/2021",
+                "fechaFin": "11/06/2021",
+                "descripcion": "Internship in company developing web pages"
+            } 
+        },
+        "educacion": {
+            "a": {
+                "titulo": "Compulsory secondary education",
+                "fecha": "2016",
+                "lugar": "IES Mirador del Genil"
+            },
+            "b": {
+                "titulo": "Technological A levels",
+                "fecha": "2018",
+                "lugar": "IES Nuevo Scala"
+            },
+            "c": {
+                "titulo": "Higher-level technician in web application development",
+                "fecha": "2021",
+                "lugar": "IES Francisco Ayala"
+            }
+        },
+        "habilidades": {
+            "a": {
+                "habilidad": "HTML5",
+                "imagen": "../img/html.png"
+            },
+            "b": {
+                "habilidad": "CSS3",
+                "imagen": "../img/css.png"
+            },
+            "c": {
+                "habilidad": "Java",
+                "imagen": "../img/java.png"
+            },
+            "d": {
+                "habilidad": "JavaScript",
+                "imagen": "../img/js.jpg"
+            },
+            "e": {
+                "habilidad": "Vue",
+                "imagen": "../img/vue.png"
+            },
+            "f": {
+                "habilidad": "PHP",
+                "imagen": "../img/php.png"
+            },
+            "g": {
+                "habilidad": "Bootstrap",
+                "imagen": "../img/bootstrap.png"
+            }
+        },
+        "proyectosDesarrollados": {
+            "a": {
+                "nombre": "Rock, paper or scissors",
+                "imagen": "../img/ppt.png",
+                "enlaceProduccion": "https://carlosmoreno00.github.io/rockPaperScissors/",
+                "enlaceRepositorio": "https://github.com/carlosmoreno00/rockPaperScissors",
+                "resumen": "Traditional game of rock, paper or scissors",
+                "tecnologias": "HTML5, CSS3 and JavaScript"
+            },
+            "b": {
+                "nombre": "Pong",
+                "imagen": "../img/pong.png",
+                "enlaceProduccion": "https://carlosmoreno00.github.io/pongGame/",
+                "enlaceRepositorio": "https://github.com/carlosmoreno00/pongGame",
+                "resumen": "Traditional game of pong",
+                "tecnologias": "HTML5 and JavaScript using svg and classes"
+            },
+            "c": {
+                "nombre": "Notes",
+                "imagen": "../img/notas.png",
+                "enlaceProduccion": "https://carlosmoreno00.github.io/stickyNotes/",
+                "enlaceRepositorio": "https://github.com/carlosmoreno00/stickyNotes",
+                "resumen": "Allows you to create notes with its creation date",
+                "tecnologias": "HTML5, CSS3 and JavaScript"
+            },
+            "d": {
+                "nombre": "Landing page of Wallapop",
+                "imagen": "../img/wallapop.jpg",
+                "enlaceProduccion": "https://carlosmoreno00.github.io/landingPage/",
+                "enlaceRepositorio": "https://github.com/carlosmoreno00/landingPage",
+                "resumen": "Landing page of the Wallapop website",
+                "tecnologias": "HTML5, CSS3, JavaScript and JQuery"
+            }
+        },
+        "idiomas": {
+            "a": {
+                "idioma": "Spanish",
+                "nivel": "100%"
+            },
+            "b": {
+                "idioma": "English",
+                "nivel": "70%"
+            },
+            "c": {
+                "idioma": "French",
+                "nivel": "20%" 
+            }
+        },
+        "referencias": {
+            "a": {
+                "nombre": "Isaac Arévalo",
+                "referencia": "She has proven to be a responsible, honest and efficient worker",
+                "numero": "630799306",
+                "correo": "isaacarevalo@gmail.com"
+            },
+            "b": {
+                "nombre": "María Cañadas",
+                "referencia": "She is efficient, honest and punctual. On many occasions, the work is finished before the scheduled date, making it very efficient",
+                "numero": "614964503",
+                "correo": "mariacañadas@gmail.com"
+            },
+            "c": {
+                "nombre": "Jaime Postigo",
+                "referencia": "He has an excellent interpersonal relationship, as well as ease with teaching. Her excellent communication skills (both written and verbal) allow her to connect with all types of people and inspire them to do their best",
+                "numero": "674229503",
+                "correo": "jaimepostiño@gmail.com"
+            }
+        }
+    }
+}

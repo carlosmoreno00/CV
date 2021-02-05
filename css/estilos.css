@@ -1,0 +1,207 @@
+/* GLOBALES */
+body, html {
+    width: 100%;
+}
+.miApp {
+    display: flex;
+    flex-direction: row;
+}
+hr { 
+    background-color: red; 
+}
+
+/* NAVBAR */
+#navbar {
+    text-align: center;
+    position: fixed;
+    height: 100%;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+#logo {
+    width: 140px; 
+    height: 140px;
+    border-radius: 70px;
+}
+#nombre {
+    display: none;
+}
+#lista {
+    display: flex;
+    flex-direction: column;
+}
+.nav-link {
+    font-size: 20px;
+}
+
+/* CONTENIDO DINAMICO */
+#informacion {
+    margin-left: 20%;
+    width: 80%;
+    background-color: navajowhite;
+    padding: 10px;
+}
+
+/* SOBRE MI */
+.sobreMi {
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.redes {
+    display: flex;
+    flex-direction: row;
+}
+.redes img {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+
+/* EXPERIENCIA PROFESIONAL */
+.experienciaProfesional {
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.experienciaProfesional .card {
+    width: 40vw;
+    text-align: center;
+}
+
+/* EDUCACION */
+.educacion {
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* HABILIDADES */
+.habilidades {
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.habilidades .cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.habilidades .card {
+    margin-bottom: 10px;
+}
+.habilidades .card img {
+    width: 150px;
+    height: 100px;
+}
+
+/* PROYECTOS DESARROLLADOS */
+.proyectosDesarrollados {
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.proyectosDesarrollados .cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.proyectosDesarrollados .card {
+    margin-bottom: 10px;
+    width: 400px;
+    height: 250px;
+}
+.proyectosDesarrollados .card img {
+    height: 210px;
+}
+
+/* IDIOMAS */
+.idiomas {
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* REFERENCIAS */
+.referencias {
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.referencias .opiniones {
+    display: flex;
+    flex-direction: column;
+}
+.referencias .opiniones .card {
+    background-color: navajowhite;
+    border-color: rgb(199, 158, 97);
+}
+.referencias .opiniones button {
+    width: 40vw;
+    height: 60px;
+}
+
+/* CONTACTO */
+.contacto {
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+/* VISTA PEQUEÑA */
+@media screen and (max-width: 900px) {
+    /* GLOBALES */
+    body, html {
+        width: 100%;
+    }
+    
+    /* NAVBAR */
+    #navbar {
+        display: flex;
+        flex-direction: row;
+        height: 10%;
+        width: 100%;
+    }
+    #logo {
+        display: none;
+    }
+    #nombre {
+        display: block;
+        font-size: 30px;
+    }
+    #lista {
+        display: none;
+    }
+
+    /* CONTENIDO DINAMICO */
+    #informacion {
+        margin-top: 10vh;
+        margin-left: 0;
+        width: 100%;
+    }
+
+    /* PROYECTOS DESARROLLADOS */
+    .proyectosDesarrollados .cards .modal-body img {
+        width: 50vw;
+    }
+
+    /* REFERENCIAS */
+    .referencias .opiniones button {
+        width: 30vw;
+    }
+}
